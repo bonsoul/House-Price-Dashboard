@@ -1,6 +1,7 @@
 # House-Price-Dashboard
-
+Link to the Dashaboard
 ![image](https://public.tableau.com/app/profile/bonsoul.arani/viz/HousePriceDashboard_17110520585220/Dashboard1?publish=yes)
+
 Columns
 
 ![image](https://github.com/bonsoul/House-Price-Dashboard/assets/83598526/131bba61-90f1-41e8-a421-02038630b3f3)
